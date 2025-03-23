@@ -12,17 +12,21 @@
         "light": "/logo/light.svg",
         "dark": "/logo/dark.svg"
     },
-    "navigation": [
+    "navigation": {
+      "tabs": [
         {
-            "group": "Getting Started",
-            "pages": [
-                {
-                    "name": "Introduction",
-                    "href": "/docs/introduction"
-                }
-            ]
+          "tab": "Docs",
+          "groups": [
+            {
+              "group": "Introduction",
+              "pages": [
+                "docs/introduction"
+              ]
+            }
+          ]
         }
-    ],
+      ]
+    },
     "navbar": {
         "links": [
             {
