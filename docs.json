@@ -12,6 +12,7 @@
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
   },
+  "navigation": {},
   "navbar": {
     "links": [
       {
